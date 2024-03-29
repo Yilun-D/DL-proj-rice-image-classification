@@ -1,6 +1,6 @@
 # Deep Learning project S23: Rice image classification 
 ## Description 
-An image classification where we predict a label We used Three types of model:
+An image classification where we predict a label. We used Three types of model:
 ### A convolutional Neural Network Model, using Pytorch Framework
 A deep learning model, we aim to achieve a thorough understanding of the model's performance subtleties, as well as remarkable classification accuracy.
 ### An SVM model, 
