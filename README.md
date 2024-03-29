@@ -8,7 +8,7 @@ A machine learning model,
 ### A K-nearest Neighbors model,
 A machine learning model,
 
-# Backgroud and Data
+# Background and Data
 
 For this image classification, we used a rice types images dataset from Kaggle, which is the following : https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
 
