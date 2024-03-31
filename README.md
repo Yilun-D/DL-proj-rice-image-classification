@@ -18,7 +18,7 @@ To explore this project, please verify you are working on a GPU device for afast
 
 ## Usage
 
-Insert unseen images, in this case a rice image, and get a prediction of it label. The project is submitted as a Jupyter notebook which includes Data preprocessing, building a model, model training and evaluation, as well as some visualization. Based on the accuracy of each model, we deduced that the best model is CNN model, which is a Deep Learning model.
+Insert unseen images, in this case a rice image, and get a prediction of it's label. The project is submitted as a Jupyter notebook which includes Data preprocessing, building a model, model training and evaluation, as well as some visualization. Based on the accuracy of each model, we deduced that the best model is CNN model, which is a Deep Learning model.
 
 ## Explanation of some codes
 
