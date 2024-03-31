@@ -6,7 +6,7 @@ A deep learning model, we aim to achieve a thorough understanding of the model's
 ### An SVM model, 
 A machine learning model, 
 ### A K-nearest Neighbors model,
-A machine learning model,
+A machine learning model, a simple yet powerful machine learning model that operates on the principle of similarity. KNN predicts the class or value of a new data point by considering the majority label or average value of its nearest neighbors from the training dataset. With its intuitive approach and minimal assumptions, KNN is widely used for classification and regression tasks across different domains.
 
 ## Background and Data
 
