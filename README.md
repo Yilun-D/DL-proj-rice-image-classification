@@ -6,7 +6,7 @@ A deep learning model, we aim to achieve a thorough understanding of the model's
 ### An SVM model, 
 Support Vector Machines (SVM) are a type of supervised learning model used for classification tasks. SVM separates data points into different classes by finding the optimal hyperplane. In image classification, SVM efficiently handles high-dimensional data, effectively distinguishing between features to classify images accurately.
 ### A K-nearest Neighbors model,
-A machine learning model, a simple yet powerful machine learning model that operates on the principle of similarity. KNN predicts the class or value of a new data point by considering the majority label or average value of its nearest neighbors from the training dataset. With its intuitive approach and minimal assumptions, KNN is widely used for classification and regression tasks across different domains.
+A machine learning model, a simple yet powerful machine learning model that operates on the principle of similarity. KNN predicts the class or value of a new data point by considering the majority label or average value of its nearest neighbors from the training dataset. 
 
 ## Background and Data
 
