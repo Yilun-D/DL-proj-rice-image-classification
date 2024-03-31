@@ -1,6 +1,7 @@
 # Deep Learning project S23: Rice image classification 
 ## Description 
-In this image classification task, our goal is to predict a label for given images. We've employed three distinct types of models:
+A project involving image classification, especially using the Deep Learning Model CNN, which acquired accuracy of approx. 99%. 
+Using this model, we did a training to classify images into 5 different classes. We also used the Machine Learning models SVM and KNN for a comparison. 
 ### A convolutional Neural Network Model, using Pytorch Framework
 A deep learning model, we aim to achieve a thorough understanding of the model's performance subtleties, as well as remarkable classification accuracy.
 ### An SVM model, 
